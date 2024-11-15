@@ -1,0 +1,4 @@
+Line 1 : Welcome to Python Programming. 
+Line 2 : File handling is important for data management. 
+Line 3 : Enjoy Coding. 
+Line 4: This is appended line.
