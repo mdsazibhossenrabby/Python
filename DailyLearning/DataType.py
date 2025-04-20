@@ -43,3 +43,17 @@ print("Index 0 : ",Mix[0]," Index 2 : ",Mix[2])
 City=("Dhaka","Barishal","Gazipur")
 print(City)
 print("Index 0 : ",City[0]," Index 2 : ",City[2])
+
+"""
+List: Mutable, meaning you can change, add, or remove elements after the list is created.
+Tuple: Immutable, meaning once a tuple is created, you cannot modify its contents.
+
+# List
+my_list = [1, 2, 3]
+my_list[1]=5
+
+# Tuple
+my_tuple = (1, 2, 3)
+# my_tuple[0] = 4  # This will raise an error
+
+"""
